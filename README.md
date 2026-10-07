@@ -16,4 +16,4 @@ The askFinz index is read by a fleet of ordinary machines rather than a datacent
 
 Every file here is a structured summary generated from the matching page on askfinz.com, and links back to it. The website is the source of truth; if the two ever differ, trust the site.
 
-Generated 2026-10-06.
+Generated 2026-10-07.
